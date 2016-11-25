@@ -1,8 +1,8 @@
 # jQuery-exec
 ##jQuery module
 1. [Install](#install)
-1. [Usage](usage)
-1. [Demo](demo)
+1. [Usage](#usage)
+1. [Demo](#demo)
 
 ### How to use
 #### Install
